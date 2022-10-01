@@ -1,0 +1,14 @@
+{
+  "name": "hello-world-api",
+  "version": "1.0.0",
+  "description": "Simple hello world API",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thurrio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
