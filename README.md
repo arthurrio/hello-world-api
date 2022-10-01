@@ -1,4 +1,4 @@
-# hello-world-api
+# Hello World Api
 Simple hello world Api for tests
 
 ## Endpoints
